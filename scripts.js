@@ -91,7 +91,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const closeBtn = document.querySelector('.close-btn');
     const body = document.querySelector('body');
 
-    const textArray = ["Valters-Co-Productions", "Full Stack Web Developer"];
+    const textArray = ["Ralfs Valters Zāmuelis", "Full Stack Web Developer"];
     let textIndex = 0;
     let charIndex = 0;
     let isDeleting = false;
